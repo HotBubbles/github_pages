@@ -1,8 +1,6 @@
-# Hello Internet this is Gary
-# Hello Gary, this is the Internet
+# My First Website:
 
 **This is a bold statement**
 
-`this is highlighted code`
-This is a change in vscode.
-This is a change to see how tf this works cause im so hecken confused.
+This is text <br> 
+Does this work?
